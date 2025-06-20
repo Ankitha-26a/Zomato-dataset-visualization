@@ -1,4 +1,4 @@
-#### Zomato-dataset-visualization
+# Zomato-dataset-visualization
 ## Introduction 
 This project focuses on analyzing Zomato restaurant data specifically from Bengaluru, India. It explores various aspects of the city's food and dining scene, including the availability of online orders, table booking options, types of restaurants (like cafes, pubs, delivery, dine-out, etc.), and customer ratings. The analysis uses Python with libraries such as Pandas, Seaborn, and Matplotlib to visualize trends and extract actionable insights. The goal is to identify the most popular service types, high-demand locations, and restaurant categories to assist stakeholders in making strategic decisions within Bengaluru’s dynamic food industry.
 
